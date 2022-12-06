@@ -1,2 +1,2 @@
 # UnityOusterLidarViewer
-Ouster Lidar Viewer plugin for Unity
+Public issues & documentation repo for Ouster Lidar Viewer plugin for Unity
