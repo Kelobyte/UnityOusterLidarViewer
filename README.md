@@ -1,6 +1,9 @@
 # Lidar Viewer Tools for Unity - Compatible with Ouster
 Public issues & documentation repo for Ouster Lidar Viewer plugin for Unity
 
+### Asset Store:
+- https://assetstore.unity.com/packages/tools/integration/lidar-viewer-tools-for-unity-compatible-with-ouster-243824?aid=1101loGPL
+
 ### Unity Forums
 - https://forum.unity.com/threads/unity-ouster-lidar-viewer-plugin-wip.1345199/
   
